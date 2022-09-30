@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # Hacklock by Nitro
 #youtube.com/noobhackers
@@ -318,3 +319,4 @@ done
 banner
 dependencies
 menu
+
